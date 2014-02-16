@@ -1,0 +1,14 @@
+negative:	 21376
+nn 	: 	 15954
+np 	:  	  5422
+
+positive:	 12330
+pp 	:	  8294
+pn  	:	  4036
+
+Total:		33706	
+
+Total Positive: 24248
+Total Negative : 9458
+
+Accuracy	: 71.939
