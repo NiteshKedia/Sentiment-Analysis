@@ -1,0 +1,3 @@
+We use Twitter Streaming API to get real time tweets filtered according to location, hash tags etc.
+We apply sentiment analysis on the real time tweets to find interesting patterns.
+
